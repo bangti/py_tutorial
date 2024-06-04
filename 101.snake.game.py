@@ -1,6 +1,8 @@
 from tkinter import *
 import random
 
+# zzzzzzzzzzzz
+
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 SPEED = 100
